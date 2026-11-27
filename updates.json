@@ -13,11 +13,11 @@
   "homepage": "https://github.com/Aviandin/TMYS",
   "1.21.1": {
     "1.0.0": "Initial release.",
-    "1.1.0": "Added new features."
+    "1.4.0": "Added new features."
   },
   "promos": {
-    "1.21.1-latest": "1.1.0",
-    "1.21.1-recommended": "1.1.0"
+    "1.21.1-latest": "1.4.0",
+    "1.21.1-recommended": "1.4.0"
       }
      }
     }
