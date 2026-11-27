@@ -1,0 +1,14 @@
+{
+  "mods": {
+    "aviandinlib": {
+      "homepage": "https://github.com/Aviandin/AviandinLib",
+      "1.21.1": {
+        "1.2.2": "AviandinLib 1.2.2"
+      },
+      "promos": {
+        "1.21.1-latest": "1.2.2",
+        "1.21.1-recommended": "1.2.2"
+      }
+    }
+  }
+}
